@@ -1,4 +1,11 @@
 body {
     background-color: rgb(26, 37, 97);
-    color: white
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    font-size: medium;
+    
+}
+ol {
+    list-style-type: circle;
 }
